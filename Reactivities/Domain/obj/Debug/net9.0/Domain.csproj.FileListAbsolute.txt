@@ -1,0 +1,12 @@
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\bin\Debug\net9.0\Domain.dll
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\Domain.dll
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Repos\Udemy-CSharp-React\Reactivities\Domain\obj\Debug\net9.0\ref\Domain.dll

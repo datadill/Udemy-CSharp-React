@@ -1,0 +1,16 @@
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\bin\Debug\net9.0\Persistence.deps.json
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\bin\Debug\net9.0\Persistence.dll
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\bin\Debug\net9.0\Persistence.pdb
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\bin\Debug\net9.0\Domain.dll
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\bin\Debug\net9.0\Domain.pdb
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.dll
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
+C:\Repos\Udemy-CSharp-React\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
